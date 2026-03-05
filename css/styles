@@ -8,7 +8,7 @@
  * Correct `block` display not defined in IE 8/9.
  */
 body {
-  background-image: url("https://via.placeholder.com/500");
+  background-image: url("../black.jpg");
 }
 
 #page-wrapper {
