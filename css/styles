@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/black.jpg"!important);
+  background-image: url("../images/black.jpg");
 }
 
 #page-wrapper {
