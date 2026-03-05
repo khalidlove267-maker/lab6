@@ -1,5 +1,8 @@
 body {
-  background-image: url("../black.jpg");
+  background-image: url("../images/black.jpg")!important;
+  background-size: cover;
+  min-height: 100vh;
+  
 }
 
 #page-wrapper {
